@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\Gyroscope\\GyroscopeExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gyroscope_explorer_introduction_0.png",
+        "source": "D:\\AndroidStudioProjects\\Gyroscope\\GyroscopeExplorer\\src\\main\\res\\drawable-hdpi\\gyroscope_explorer_introduction_0.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Gyroscope\\GyroscopeExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gyroscope_explorer_introduction_3.png",
+        "source": "D:\\AndroidStudioProjects\\Gyroscope\\GyroscopeExplorer\\src\\main\\res\\drawable-hdpi\\gyroscope_explorer_introduction_3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Gyroscope\\GyroscopeExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stop_button_background.png",
+        "source": "D:\\AndroidStudioProjects\\Gyroscope\\GyroscopeExplorer\\src\\main\\res\\drawable-hdpi\\stop_button_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Gyroscope\\GyroscopeExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gyroscope_explorer.png",
+        "source": "D:\\AndroidStudioProjects\\Gyroscope\\GyroscopeExplorer\\src\\main\\res\\drawable-hdpi\\gyroscope_explorer.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Gyroscope\\GyroscopeExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ke_icon.png",
+        "source": "D:\\AndroidStudioProjects\\Gyroscope\\GyroscopeExplorer\\src\\main\\res\\drawable-hdpi\\ke_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Gyroscope\\GyroscopeExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start_button_background.png",
+        "source": "D:\\AndroidStudioProjects\\Gyroscope\\GyroscopeExplorer\\src\\main\\res\\drawable-hdpi\\start_button_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Gyroscope\\GyroscopeExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\color_bar.png",
+        "source": "D:\\AndroidStudioProjects\\Gyroscope\\GyroscopeExplorer\\src\\main\\res\\drawable-hdpi\\color_bar.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Gyroscope\\GyroscopeExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gyroscope_explorer_introduction_2.png",
+        "source": "D:\\AndroidStudioProjects\\Gyroscope\\GyroscopeExplorer\\src\\main\\res\\drawable-hdpi\\gyroscope_explorer_introduction_2.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Gyroscope\\GyroscopeExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gyroscope_explorer_introduction_1.png",
+        "source": "D:\\AndroidStudioProjects\\Gyroscope\\GyroscopeExplorer\\src\\main\\res\\drawable-hdpi\\gyroscope_explorer_introduction_1.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Gyroscope\\GyroscopeExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\confirm_button_background.png",
+        "source": "D:\\AndroidStudioProjects\\Gyroscope\\GyroscopeExplorer\\src\\main\\res\\drawable-hdpi\\confirm_button_background.png"
+    }
+]

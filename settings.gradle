@@ -1,0 +1,2 @@
+include ':app', ':pedometer', ':GyroscopeExplorer', ':AccelerationExplorer', ':login'
+include ':sensorGyroscope'

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\Gyroscope\\AccelerationExplorer\\build\\intermediates\\res\\merged\\debug\\menu\\menu_diagnostic.xml",
+        "source": "D:\\AndroidStudioProjects\\Gyroscope\\AccelerationExplorer\\src\\main\\res\\menu\\menu_diagnostic.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Gyroscope\\AccelerationExplorer\\build\\intermediates\\res\\merged\\debug\\menu\\menu_vector.xml",
+        "source": "D:\\AndroidStudioProjects\\Gyroscope\\AccelerationExplorer\\src\\main\\res\\menu\\menu_vector.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Gyroscope\\AccelerationExplorer\\build\\intermediates\\res\\merged\\debug\\menu\\menu_logger.xml",
+        "source": "D:\\AndroidStudioProjects\\Gyroscope\\AccelerationExplorer\\src\\main\\res\\menu\\menu_logger.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Gyroscope\\AccelerationExplorer\\build\\intermediates\\res\\merged\\debug\\menu\\menu_home.xml",
+        "source": "D:\\AndroidStudioProjects\\Gyroscope\\AccelerationExplorer\\src\\main\\res\\menu\\menu_home.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Gyroscope\\AccelerationExplorer\\build\\intermediates\\res\\merged\\debug\\menu\\menu_noise.xml",
+        "source": "D:\\AndroidStudioProjects\\Gyroscope\\AccelerationExplorer\\src\\main\\res\\menu\\menu_noise.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Gyroscope\\AccelerationExplorer\\build\\intermediates\\res\\merged\\debug\\menu\\menu_gauges.xml",
+        "source": "D:\\AndroidStudioProjects\\Gyroscope\\AccelerationExplorer\\src\\main\\res\\menu\\menu_gauges.xml"
+    }
+]

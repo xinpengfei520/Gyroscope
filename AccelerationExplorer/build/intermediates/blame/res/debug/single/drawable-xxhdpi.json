@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\Gyroscope\\AccelerationExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\launcher_icon.png",
+        "source": "D:\\AndroidStudioProjects\\Gyroscope\\AccelerationExplorer\\src\\main\\res\\drawable-xxhdpi\\launcher_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Gyroscope\\AccelerationExplorer\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\Gyroscope\\AccelerationExplorer\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]
